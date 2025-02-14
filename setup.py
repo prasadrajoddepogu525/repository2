@@ -1,5 +1,5 @@
 from setuptools import find_packages,setup    #to find the packges and setup used for metadata(name, version, authour for our data)
-from typing import List  # for hint the output will be in listformat
+from typing import List  # for hint, the output will be in list format
 
 HYPEN_E_DOT='-e .'   # creating a variable for installation of the packages in pip
 
